@@ -1,4 +1,6 @@
 print("GitHub")
 print("Hello World")
-if (True) :
+if (True):
     print("123")
+else:
+    print(123)
